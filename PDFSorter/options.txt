@@ -1,0 +1,5 @@
+#Sun May 07 20:32:22 PDT 2017
+uniValBox\ =true
+orderNumFormat\ =\#\#\#\#\#\#
+binNumBox\ =true
+binNumFormat\ =^\#\#-^\#

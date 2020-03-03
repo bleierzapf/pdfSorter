@@ -1,0 +1,7 @@
+#Thu Aug 24 22:12:11 PDT 2017
+Upload\ Dir\ =
+Save\ Prefix\ =
+Save\ Suffix\ =
+Save\ Dir\ =
+Save\ File\ Name\ =--.pdf
+User\ Name\ =
